@@ -5,3 +5,4 @@ then
 echo "git installed"
 else 
 echo "not installed"
+fi
