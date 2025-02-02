@@ -5,5 +5,5 @@ then
 echo "git installed"
 else 
 echo "not installed"
-echo "also not ins"
+echo "also not is"
 fi
